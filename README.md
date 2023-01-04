@@ -33,10 +33,21 @@
     * Treatment_Function_Code - The treatment function under which the patient is treated.
     * Length_Of_Stay_Days - The number of days the patient was admitted
 
-Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
-
-
-## Summary of Findings
+> The following were the data wrangling that was done
+    * Created a Year_Month column from AE_Arrive_Date
+    * Made the following columns into a categorical datatype
+        * `Sex`
+        * `AE_Arrival_Mode`
+        * `Admission_Method`
+        * `ICD10_Chapter_Code`
+        * `Treatment_Function_Code`
+    * The following columns are ordered categorical datatypes
+        * `IMD_Decile_From_LSOA`
+        * `Age_Band`
+        * `AE_Arrive_HourOfDay`
+        * `AE_HRG`
+    * Removed rows that have missing entries
+# Summary of Findings
 
 > Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
 
