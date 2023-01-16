@@ -1,24 +1,24 @@
 ICD10_Chapter_Code,Description
-I ,Certain infectious and parasitic diseases 
-II ,Neoplasms 
-III ,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism 
-IV ,"Endocrine, nutritional and metabolic diseases "
-V ,Mental and behavioural disorders 
-VI ,Diseases of the nervous system 
-VII ,Diseases of the eye and adnexa 
-VIII ,Diseases of the ear and mastoid process 
-IX ,Diseases of the circulatory system 
-X ,Diseases of the respiratory system 
-XI ,Diseases of the digestive system 
-XII ,Diseases of the skin and subcutaneous tissue 
-XIII ,Diseases of the musculoskeletal system and connective tissue 
-XIV ,Diseases of the genitourinary system 
-XV ,"Pregnancy, childbirth and the puerperium "
-XVI ,Certain conditions originating in the perinatal period 
-XVII ,"Congenital malformations, deformations and chromosomal abnormalities "
-XVIII ,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified "
-XIX ,"Injury, poisoning and certain other consequences of external causes "
-XX ,External causes of morbidity and mortality 
-XXI ,Factors influencing health status and contact with health services 
-XXII ,Codes for special purposes 
+I,Infections and parasites 
+II,Neoplasms 
+III,Blood and blood-forming organs 
+IV,Endocrine nutritional and metabolic
+V,Mental and behavioural disorders 
+VI,Nervous system 
+VII,Eye and adnexa 
+VIII,Ear and mastoid process 
+IX,Circulatory system 
+X,Respiratory system 
+XI,Digestive system
+XII,Skin and subcutaneous tissue 
+XIII,Musculoskeletal system and connective tissue 
+XIV,Genitourinary system 
+XV,Pregnancy childbirth and the puerperium
+XVI,Perinatal period 
+XVII,Congenital abnormalities
+XVIII,Other
+XIX,Injury and poisoning
+XX,External causes of morbidity and mortality 
+XXI,Factors influencing health status and contact with health services 
+XXII,Codes for special purposes 
 Other,Other
